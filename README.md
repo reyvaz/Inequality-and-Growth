@@ -1,4 +1,4 @@
-### Growth Implications of the Political Determination of Transfers and Public Investment (Simulation Scripts)  
+## Growth Implications of the Political Determination of Transfers and Public Investment (Simulation Scripts)  
 
 ### About the Paper  
 
