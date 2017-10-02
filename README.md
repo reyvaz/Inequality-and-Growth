@@ -34,18 +34,20 @@ rel="github pages">
 </p>
 
 * [objfun2.m](objfun2.m) contains the same function as objfun.m, but it is used as an auxiliary for utility maximization over $\theta$.   
-* [utilities.m](utilities.m) demonstrates concavity and single-peakedness of the utility function over the policy plane. Depicts indiference curves for select voters over the two issues.
+* [utilities.m](utilities.m) demonstrates concavity and single-peakedness of the utility function over the policy plane. Depicts indiference curves for select voters over the two issues.  
+
 <p align="center">
-<img src="figs/poor.pdf" alt="Drawing" width = "450">  <img src="figs/iso.pdf" alt="Drawing" width = "400">
-</p>
+<img src="figs/poor.jpg" alt="Drawing" width = "430">  <img src="figs/iso.jpg" alt="Drawing" width = "390">
+</p>  
+
 * [reaction_fns.m](reaction_fns.m)  calculates and plots the reaction functions $\theta(\tau)$ and $\tau(\theta)$ for each voter over the two policy vectors.   
 * [pareto_optimum.m](pareto_optimum.m) approximates the Pareto Optimum set of policy pairs.  
 * [partial_election.m](partial_election.m) shows that the median voter's most preferred one-issue policies are also the Kramer-Shapsle and Stackelberg equilibria (a.k.a. Condorcet victors).   
 * [gral_election.m](gral_election.m) produces the results of the two-issue Condorcet elections, where the winner is the candidate *i* for which all of its rival votes' satisfy (equation 21),
 <p align="center">
 <img src="eqs/condorcet.png" alt="Drawing" width = "480">
-<img src="figs/elections.pdf" alt="Drawing" width = "390">
-</p>
+<img src="figs/elections.jpg" alt="Drawing" width = "410">  
+</p>  
 * [policy_effects.m](policy_effects.m) once the median voter equilibrium has been established, it shows the economy's equilbrium policy pairs for different income distributions. Also shows the effects of these policies on growth.   
 <br>
 <br>
