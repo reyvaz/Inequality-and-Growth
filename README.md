@@ -14,7 +14,7 @@ Numerical simulations were programed in Matlab for illustration and to complemen
 * [dist_gen.m](dist_gen.m) creates the (log-normal) productivity distribution.  
 * [params.m](params.m) contains the main economy parameters. All programs depend on this. Alter values here to make robustness and model-sanity checks, as well as policy evaluations.   
 * [goldensection.m](godensection.m) contains the Golden Section maximization algorithm.   
-* [objfun.m](objfun.m) contains the utility function given by equation 15, whith consumption at time zero substituted by its time invariant version equation 13, and growth as defined by equation 12, 
+* [objfun.m](objfun.m) contains the utility function given by equation 15, whith consumption at time zero substituted by its time invariant version shown in equation 13 with *w* = MPL and *r* = MPK, and growth as shown in equation 12, 
 
 <p align="center">
 <a href=" " 
