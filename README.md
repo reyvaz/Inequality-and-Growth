@@ -37,7 +37,7 @@ rel="github pages">
 * [utilities.m](utilities.m) demonstrates concavity and single-peakedness of the utility function over the policy plane. Depicts indiference curves for select voters over the two issues.  
 
 <p align="center">
-<img src="figs/poor.jpg" alt="Drawing" width = "430">  <img src="figs/iso.jpg" alt="Drawing" width = "390">
+<img src="figs/poor.jpg" alt="Drawing" width = "430">  <img src="figs/iso.jpg" alt="Drawing" width = "400">
 </p>  
 
 * [reaction_fns.m](reaction_fns.m)  calculates and plots the reaction functions $\theta(\tau)$ and $\tau(\theta)$ for each voter over the two policy vectors.   
