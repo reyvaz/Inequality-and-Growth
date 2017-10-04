@@ -8,7 +8,7 @@
 %% Generate Productivity Distribution
 rng('default');
 norm_mean = 1; 
-norm_var = 1.2; % adjust this to skew the distribution. higher is more skewed
+norm_var = 1.4; % adjust this to skew the distribution. higher is more skewed
 dist_mu = log((norm_mean^2)/sqrt(norm_var+norm_mean^2));
 dist_var = sqrt(log(norm_var/(norm_mean^2)+1));
 l_dist = lognrnd(dist_mu,dist_var,1,1000);   % contains the productivity distr.

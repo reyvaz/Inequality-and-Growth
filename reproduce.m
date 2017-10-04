@@ -42,7 +42,8 @@ end
 %
 % Will find the platform most prefered by each voter. By default, it tests
 % the same agents for which the reaction functions were plotted. Change
-% n_voters below to alter the number of voters. 
+% n_voters below to alter the number of voters. This section will also yield the
+% results reported in section 3.2 of the paper, by calling best_platforms(5,:).
 get_preferred_platforms = false;
 if get_preferred_platforms == true
   run('params.m')
