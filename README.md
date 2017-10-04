@@ -2,7 +2,9 @@
 
 ### About the Paper  
 
-The paper inquires into the effects of inequality on economic performance. A key assumption is that public spending is a complement to private inputs in the production process. Heterogeneity on the ability to earn income creates a conflict of interests between agents on public policy. Specifically, some agents differ on their most preferred tax rate, on how much of total tax revenue should be devoted to public investment, and how much should be devoted to income transfers. Results in a parameterized model of endogenous growth suggest that if the agent, who is the median in the distribution of income, is sufficiently poorer than the mean, a political outcome creates distortions that hinder economic growth. The result is mainly driven by the skewness of the income distribution. See the paper here [(PDF)](https://rexvax.files.wordpress.com/2017/10/ineq_growth.pdf) [(HTML)](https://reyvaz.github.io/Inequality-and-Growth/ineq_growth.html).
+The paper inquires into the effects of inequality on economic performance. A key assumption is that public spending is a complement to private inputs in the production process. Heterogeneity on the ability to earn income creates a conflict of interests between agents on public policy. Specifically, some agents differ on their most preferred tax rate, on how much of total tax revenue should be devoted to public investment, and how much should be devoted to income transfers. Results in a parameterized model of endogenous growth suggest that if the agent, who is the median in the distribution of income, is sufficiently poorer than the mean, a political outcome creates distortions that hinder economic growth. The result is mainly driven by the skewness of the income distribution.   
+
+See the paper here [(PDF)](https://rexvax.files.wordpress.com/2017/10/ineq_growth.pdf) [(HTML)](https://reyvaz.github.io/Inequality-and-Growth/ineq_growth.html).  
 
 ### About the Files  
 
@@ -18,19 +20,19 @@ Numerical simulations were programed in Matlab for illustration and to complemen
 * [objfun.m](objfun.m) contains the utility function given by equation (15), with consumption at time zero substituted by its time invariant version shown in equation (13) with *r* = MPK  and *w* = MPL, as defined in equations (6) and (7) respectively, and growth as shown in equation (12), 
 
 <p align="center">
-<a href=" " 
+<a href="https://reyvaz.github.io/Inequality-and-Growth/ineq_growth.html#decentralized-problem-tau-and-theta-given" 
 rel="github pages">
 <img src="eqs/utility.png" alt="Drawing" width = "180"></a>
 </p> 
 <br>
 <p align="center">
-<a href=" " 
+<a href="https://reyvaz.github.io/Inequality-and-Growth/ineq_growth.html#decentralized-problem-tau-and-theta-given" 
 rel="github pages">
 <img src="eqs/consumption.png" alt="Drawing" width = "350"></a>
 </p>
 <br>
 <p align="center">
-<a href=" " 
+<a href="https://reyvaz.github.io/Inequality-and-Growth/ineq_growth.html#decentralized-problem-tau-and-theta-given" 
 rel="github pages">
 <img src="eqs/growth.png" alt="Drawing" width = "390"></a>
 </p>
